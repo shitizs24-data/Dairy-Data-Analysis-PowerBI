@@ -47,13 +47,13 @@ Regional Performance
 
 Key Insights
 
-✔ Top 20% products contribute to majority revenue
+• Top 20% products contribute to majority revenue
 
-✔ Certain regions generate significantly higher profits
+• Certain regions generate significantly higher profits
 
-✔ Seasonal demand fluctuations impact inventory planning
+• Seasonal demand fluctuations impact inventory planning
 
-✔ Product mix optimization can improve profitability
+• Product mix optimization can improve profitability
 
 Files Included
 File	Description
