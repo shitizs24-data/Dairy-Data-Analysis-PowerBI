@@ -15,7 +15,9 @@ Identify top-performing products
 Analyze regional demand
 Improve inventory planning
 Support strategic decision making
-Tools Used
+
+## Tools Used
+
 Power BI
 Power Query
 DAX
@@ -28,24 +30,35 @@ Sales Growth %
 Top Products
 Regional Performance
 Customer Trends
-Dashboard Pages
-Executive Overview
+## Project Metrics
+
+| Metric | Value |
+|----------|----------|
+| Dataset Records | 10,000+ |
+| Dashboard Pages | 4 |
+| DAX Measures | 20+ |
+| KPIs Tracked | 15+ |
+| Visualizations | 25+ |
+
+## Dashboard Pages
+
+### Executive Overview
 
 ![Overview](Dashboard_Screenshots/Executive_overview.png)
 
-Sales Analysis
+### Sales Analysis
 
 ![Sales](Dashboard_Screenshots/Sales_and_Distribution_nalysis.png)
 
-Product Analysis
+### Product Analysis
 
 ![Product](Dashboard_Screenshots/Storage_Shelf_Life_and_Expiry_Risk.png)
 
-Regional Performance
+### Regional Performance
 
 ![Region](Dashboard_Screenshots/Farm_Performance_and_Operations.png)
 
-Key Insights
+## Key Insights
 
 • Top 20% products contribute to majority revenue
 
@@ -55,14 +68,15 @@ Key Insights
 
 • Product mix optimization can improve profitability
 
-Files Included
+## Files Included
+
 File	Description
 PBIX	Power BI Dashboard
 Dataset	Source Data
 Screenshots	Dashboard Preview
 README	Project Documentation
-Author
 
+### Author
 Shitiz Sharma
 
 Aspiring Data Analyst
